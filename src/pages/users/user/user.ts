@@ -1,4 +1,4 @@
-import { Component } from "@angular/core"; 
+import { Component, OnInit } from "@angular/core"; 
 import { NavParams, NavController } from "ionic-angular";
 
 @Component({
